@@ -3,10 +3,14 @@
 Welcome to my coding universe! I am a passionate and versatile Full Stack JavaScript/TypeScript developer with expertise in crafting delightful web experiences and robust backend solutions. Let's dive into the tech stack that fuels my coding adventures:
 
 ## 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,pug,dart,flutter,bash,mysql,postgres,mongodb,firebase,supabase,azure,gcp,aws,netlify,vercel,docker,vite,git,postman,vscode,figma)](https://skillicons.dev)
 - **Frontend:** ReactJS and NextJS
 - **Backend:** ExpressJS
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, and Supabase
 - **Mobile App Development:** Flutter
+
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASR1221&layout=donut&theme=tokyonight)](https://github.com/ASR1221/github-readme-stats)
 
 ## 💻 What I Do
 - Crafting responsive and engaging user interfaces with ReactJS and NextJS.
