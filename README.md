@@ -24,7 +24,7 @@ I specialize in deploying websites with a professional touch. From setting up se
 ## 🚀 Skills Snapshot
 - **Languages:** JavaScript, TypeScript and Dart
 - **Deployment:** Docker, Heroku, Netlify, Vercel, GCP, Azure and more
-- **Version Control:** Git, GitHub
+- **Version Control:** Git and GitHub
 - **Other Tools:** VS Code, Postman, Figma and more
 
 ## 🌱 Always Learning
